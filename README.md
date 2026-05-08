@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Josimar! 👋
 
-<!--
-**LopesJosimar/LopesJosimar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de Engenharia de Software focado em desenvolvimento backend e análise de dados. Atualmente, estou aprofundando meus conhecimentos no ecossistema Java e em automação.
 
-Here are some ideas to get you started:
+### 💡 Sobre mim:
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+- 📚 Pós-graduado em **Java e Big Data**.
+- 🛠️ Atualmente estudando **Engenharia de Software** na Unicesumar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas:
+- **Linguagens:** Java, Python, C, JavaScript.
+- **Frameworks/Libs:** Spring Boot.
+- **Infra & DevOps:** Docker, WSL 2, Git.
+- **Automação:** n8n.
+
+
+### 📫 Como me encontrar:
+- [LinkedIn](www.linkedin.com/in/josimar-pereira-lopes)
