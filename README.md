@@ -1,7 +1,6 @@
 # Olá, eu sou o Josimar! 👋
 
-Sou um estudante de Engenharia de Software focado em desenvolvimento backend e análise de dados. Atualmente, estou aprofundando meus conhecimentos no ecossistema Java e em automação.
-
+Sou um estudante de Engenharia de Software focado em desenvolvimento backend e análise de dados. Atualmente, estou aprofundando meus conhecimentos no  ecossistema Java e em como unir automação e Inteligência Artificial para otimizar processos.
 ### 💡 Sobre mim:
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 - 📚 Pós-graduado em **Java e Big Data**.
